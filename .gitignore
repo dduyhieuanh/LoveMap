@@ -28,3 +28,4 @@ backend/data/*.json
 Thumbs.db
 .vscode/
 .idea/
+
